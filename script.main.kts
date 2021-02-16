@@ -2,7 +2,7 @@
 
 @file:Repository("https://jcenter.bintray.com")
 @file:DependsOn("com.google.code.gson:gson:2.8.6")
-@file:DependsOn("net.servicestack:gistcafe:0.0.6")
+@file:DependsOn("net.servicestack:gistcafe:0.0.7")
 
 import java.net.URL
 import com.google.gson.*
